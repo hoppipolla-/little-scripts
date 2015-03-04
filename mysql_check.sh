@@ -1,4 +1,5 @@
 #!/bin/sh
+#shell to connect mysql client to query sql
 mysql_user=a
 mysql_passwd=b
 mysql_db=c
